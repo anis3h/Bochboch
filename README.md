@@ -1,0 +1,1 @@
+[![Board Status](https://anishelaoui.visualstudio.com/428e8b9a-9873-4bc6-9644-aa935f0ffc02/04026c41-d5e3-4a32-a320-f074da9039f5/_apis/work/boardbadge/0aa76139-323f-438e-a792-614ff46cdada)](https://anishelaoui.visualstudio.com/428e8b9a-9873-4bc6-9644-aa935f0ffc02/_boards/board/t/04026c41-d5e3-4a32-a320-f074da9039f5/Microsoft.RequirementCategory)
